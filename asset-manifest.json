@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daily-listing-project/static/css/main.0f8a2c3c.css",
+    "main.js": "/daily-listing-project/static/js/main.58c236d5.js",
+    "static/js/592.8f6e0fcf.chunk.js": "/daily-listing-project/static/js/592.8f6e0fcf.chunk.js",
+    "static/media/todo.png": "/daily-listing-project/static/media/todo.8c238d01f8132f052978.png",
+    "index.html": "/daily-listing-project/index.html",
+    "main.0f8a2c3c.css.map": "/daily-listing-project/static/css/main.0f8a2c3c.css.map",
+    "main.58c236d5.js.map": "/daily-listing-project/static/js/main.58c236d5.js.map",
+    "592.8f6e0fcf.chunk.js.map": "/daily-listing-project/static/js/592.8f6e0fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8a2c3c.css",
+    "static/js/main.58c236d5.js"
+  ]
+}
